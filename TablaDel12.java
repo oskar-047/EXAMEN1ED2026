@@ -6,5 +6,6 @@ public class TablaDel12
         {
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
         }
+        System.out.println("Desarrollado para la aplicación Maths");
     }
 }
